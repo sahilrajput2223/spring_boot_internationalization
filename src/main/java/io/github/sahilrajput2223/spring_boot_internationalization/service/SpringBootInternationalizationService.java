@@ -3,7 +3,6 @@ package io.github.sahilrajput2223.spring_boot_internationalization.service;
 import io.github.sahilrajput2223.spring_boot_internationalization.response.HelloResponseDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
-import org.springframework.context.i18n.LocaleContextHolder;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
